@@ -1,0 +1,29 @@
+{
+  "name": "racer.io",
+  "version": "1.0.0",
+  "description": "top down racer in javascript, using p5.js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kraken22/racer.io.git"
+  },
+  "keywords": [
+    "racer",
+    "top-down",
+    "javascript",
+    "p5.js"
+  ],
+  "author": "Jordan Jantschulev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kraken22/racer.io/issues"
+  },
+  "homepage": "https://github.com/kraken22/racer.io#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}

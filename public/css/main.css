@@ -1,0 +1,9 @@
+body {
+  overflow: hidden;
+}
+
+canvas {
+  position: fixed;
+  left: calc(50% - 500px);
+  top: calc(50% - 400px);
+}
